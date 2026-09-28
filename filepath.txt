@@ -1,0 +1,38 @@
+rohit-portfolio/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Footer.jsx
+│   │   ├── sections/
+│   │   │   ├── Hero.jsx
+│   │   │   ├── Education.jsx
+│   │   │   ├── Experience.jsx
+│   │   │   ├── Projects.jsx
+│   │   │   ├── Skills.jsx
+│   │   │   ├── Achievements.jsx
+│   │   │   └── Contact.jsx
+│   │   ├── ui/
+│   │   │   ├── ScrollProgress.jsx
+│   │   │   ├── SectionWrapper.jsx
+│   │   │   ├── MagneticButton.jsx
+│   │   │   ├── TiltCard.jsx
+│   │   │   └── AnimatedText.jsx
+│   │   └── three/
+│   │       └── FloatingShapes.jsx
+│   ├── data/
+│   │   └── resumeData.js
+│   ├── hooks/
+│   │   ├── useScrollReveal.js
+│   │   └── useMagnetic.js
+│   ├── styles/
+│   │   └── globals.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── vite.config.js
